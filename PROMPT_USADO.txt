@@ -1,0 +1,11 @@
+Implemente o front-end do protótipo apresentado, reproduzindo as telas e o fluxo da forma mais fiel possível.
+
+Use apenas o protótipo fornecido como referência. Preserve os textos, cores, organização, espaçamentos, botões, cartões, estados e demais elementos visuais apresentados.
+
+Implemente também as interações e a navegação que puderem ser identificadas no protótipo, mantendo os diferentes estados apresentados nas telas.
+
+Não crie novas telas, funcionalidades ou conteúdos que não estejam representados no protótipo e não faça melhorias ou correções de design nesta etapa.
+
+A interface deve funcionar adequadamente em largura de celular e reproduzir apenas a área da aplicação mobile.
+
+Use HTML, CSS e JavaScript, sem necessidade de backend.
